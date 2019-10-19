@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://antoyo.github.io/relm-website/categories/</loc>
+    <loc>https://antoyo.github.io/relm-website/</loc>
+    <lastmod>2019-10-19T13:25:31-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://antoyo.github.io/relm-website/</loc>
+    <loc>https://antoyo.github.io/relm-website/posts/my-second-post/</loc>
+    <lastmod>2019-10-19T13:25:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antoyo.github.io/relm-website/posts/</loc>
+    <lastmod>2019-10-19T13:25:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antoyo.github.io/relm-website/categories/</loc>
   </url>
   
   <url>
