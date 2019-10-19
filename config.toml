@@ -1,4 +1,4 @@
-baseURL = "antoyo.github.io/relm-website"
+baseURL = "https://antoyo.github.io/relm-website"
 publishDir = "docs"
 languageCode = "en-us"
 title = "My blog"
