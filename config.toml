@@ -1,0 +1,5 @@
+baseURL = "antoyo.github.io/relm-website"
+publishDir = "docs"
+languageCode = "en-us"
+title = "My blog"
+theme = "ananke"
